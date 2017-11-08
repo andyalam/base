@@ -1,0 +1,19 @@
+{
+  "name": "base",
+  "version": "0.0.1",
+  "description": "An experiment with building modular node pieces",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyalam/base.git"
+  },
+  "author": "Andy Alameddine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andyalam/base/issues"
+  },
+  "homepage": "https://github.com/andyalam/base#readme"
+}
